@@ -30,7 +30,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     url="https://github.com/thesahibnanda/AnalytiXHero",
     project_urls={
-        'Documentation': 'https://github.com/thesahibnanda/AnalytiXHero/blob/main/README.md',
+        'Documentation': 'https://github.com/thesahibnanda/AnalytiXHero/blob/main/DOCUMENTATION/0.%20Documentation%20Index.md',
         'Source Code': 'https://github.com/thesahibnanda/AnalytiXHero',
     },
     packages=find_packages(),
