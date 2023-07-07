@@ -5,7 +5,7 @@
 <br>
 
 ### **Description:** <br>
-Everything That Needs To Be Done While Preprocessing Data, May It Be Outlier Handling, Skewness/Kurtosis Minimization, Treating Null Spaces Etc. Can Be Done With Pre-Defined State-Of-Art Features.
+Everything That Needs To Be Done While Preprocessing Data, May It Be Outlier Handling, Skewness/Kurtosis Minimization, Treating Null Spaces Etc. Can Be Done With Pre-Defined State-Of-The-Art Features.
 
 <br>
 
