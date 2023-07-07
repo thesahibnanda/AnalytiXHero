@@ -17,6 +17,6 @@ Everything That Needs To Be Done While Preprocessing Data, May It Be Outlier Han
 <br>
 
 ### **Documentation:** <br>
-[Check It Here](DOCUMENTATION/0.%20Documentation%20Index.md)
+[Check It Here](https://github.com/thesahibnanda/AnalytiXHero/blob/main/DOCUMENTATION/0.%20Documentation%20Index.md)
 
 <small>There Are Many That One Can Use Like [Scikit-Learn](https://scikit-learn.org/stable/), [NumPy](https://numpy.org/) Or [Pandas](https://pandas.pydata.org/) But This Library Can Make Preprocessing A Task Of Just One Line</small>
