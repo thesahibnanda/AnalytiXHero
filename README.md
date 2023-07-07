@@ -16,6 +16,11 @@ Everything That Needs To Be Done While Preprocessing Data, May It Be Outlier Han
 
 <br>
 
+### **For Contribution:** <br>
+[Check It Here](https://github.com/thesahibnanda/AnalytiXHero/blob/main/CONTRIBUTION%20GUIDELINES.md)
+
+<br>
+
 ### **Documentation:** <br>
 [Check It Here](https://github.com/thesahibnanda/AnalytiXHero/blob/main/DOCUMENTATION/0.%20Documentation%20Index.md)
 
