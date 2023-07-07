@@ -14,7 +14,7 @@
 
 7. **Maintain [CHANGELOG.md](./CHANGELOG.md)**: Keep the [CHANGELOG.md](./CHANGELOG.md) file up to date by documenting all changes, regardless of their type, under the designated <u>'CHANGES'</u> section. This provides a comprehensive overview of the library's evolution and allows users to track modifications easily.
 
-8. **Document New Features**: Request contributors to update the library's documentation to reflect any new features or changes they introduce.
+8. **Document New Features**: Request contributors to update the [library's documentation](https://github.com/thesahibnanda/AnalytiXHero/blob/main/DOCUMENTATION/0.%20Documentation%20Index.md) to reflect any new features or changes they introduce.
 
 9. **Review Code**: Encourage contributors to review and test their code before submitting a pull request. This helps catch any potential issues early on.
 
