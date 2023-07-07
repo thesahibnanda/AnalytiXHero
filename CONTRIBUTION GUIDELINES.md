@@ -22,7 +22,7 @@
 
 11. **Address Issues and Pull Requests Promptly**: As the maintainer, commit to reviewing and responding to issues and pull requests in a timely manner. This helps keep the development process active and encourages community engagement.
 
-12. **Logo and License Changes**: Avoid making any changes to the library's logo or [license terms](./LICENSE) or [contribution guidelines](./CONTRIBUTION%20GUIDELINES.md) without prior discussion. If such changes are desired, please suggest them by contacting essenbeats@gmail.com.
+12. **Guidelines and License Changes**: Avoid making any changes to the library's logo or [license terms](./LICENSE) or [contribution guidelines](./CONTRIBUTION%20GUIDELINES.md) without prior discussion. If such changes are desired, please suggest them by contacting essenbeats@gmail.com.
 
 13. **Add Your Name to [Contributers.md](./CONTRIBUTERS.md)**: Acknowledge contributors by adding their names to the Contributers.md file. This recognizes their valuable contributions and fosters a sense of community involvement.
 
