@@ -1,0 +1,3 @@
+__version__ = '0.0.1'
+__desc__ = 'Everything That Needs To Be Done While Preprocessing Data, May It Be Outlier Handling, Skewness/Kurtosis Minimization, Treating Null Spaces Etc. Can Be Done With Pre-Defined State-Of-Art Features.'
+__all__ = ['combine_datasets', 'split_dataset', 'basic_info', 'eda', 'plot_analyze', 'binary_encoder', 'category_encoder', 'one_hot_encoder', 'date_time_encoder', 'TreatNull', 'FixOutliers', 'plot_outliers', 'Transform']

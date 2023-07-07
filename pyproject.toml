@@ -1,0 +1,4 @@
+[build-system]
+
+# Minimum Requirements
+requires = ["setuptools>=42", "wheel", "numpy>=1.22.3", "pandas>=2.0.0", "scikit-learn>=1.0.0", "scipy>=1.10.0", "matplotlib>=3.5.0", "seaborn>=0.11", "python-dateutil>=2.8.0"]

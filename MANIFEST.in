@@ -1,0 +1,8 @@
+include pyproject.toml
+include README.md
+include setup.py
+include CHANGELOG.md
+include LICENSE
+include CONTRIBUTERS.md
+recursive-include Documentation *.md
+recursive-include analytixhero *.py
